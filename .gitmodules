@@ -1,0 +1,3 @@
+[submodule "http-server/suborigin"]
+	path = http-server/suborigin
+	url = https://github.com/lirunkai/http-server.git
